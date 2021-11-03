@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Casos.h
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/HashEntry.h
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/HashMap.h
+HashEntry.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/HashEntry.h
+iostream
+-
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Lista.h
+nodo.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/nodo.h
+iostream
+-
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Provincias.h
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+Casos.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Casos.h
+Lista.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Lista.h
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/nodo.h
+
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+Headers/Lista.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Lista.h
+Headers/HashMap.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/HashMap.h
+Headers/Casos.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Casos.h
+Headers/Provincias.h
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/Headers/Provincias.h
+

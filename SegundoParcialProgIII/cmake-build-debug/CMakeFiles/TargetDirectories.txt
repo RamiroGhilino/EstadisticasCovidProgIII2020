@@ -1,0 +1,3 @@
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/cmake-build-debug/CMakeFiles/TrabajoFinal.dir
+C:/Users/Ramiro Ghilino/CLionProjects/TrabajoFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
